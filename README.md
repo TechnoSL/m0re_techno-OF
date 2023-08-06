@@ -1,5 +1,5 @@
-# m0re-techno
-![screenshot](https://b.catgirlsare.sexy/i_auWpY0z58F.jpg)
+# m0re-techno (Open Fortress Port)
+![screenshot](https://b.catgirlsare.sexy/i_auWpY0z58F.jpg) 
 [there's also some fonts i like included, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/customizations/Fonts/fonts.md)
 
 This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_hud/tree/m0re) of [m0rehud](https://github.com/Hypnootize/m0rehud) while retaining mostly the same parts (except mostly menus)
