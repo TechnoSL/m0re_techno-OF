@@ -20,6 +20,8 @@ playmoo - bothud chat tf_english edit
 
 and many more i don't recall, very appreciated
 
+quickkennedy - OF specific porting tutorial
+
 # Special Thanks
 
 everyone in huds.tf discord for helping me with any issues i had while editing the hud
