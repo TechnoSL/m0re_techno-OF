@@ -29,7 +29,7 @@
 		"tall"										"18"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"labelText"									"%progresscount%"
+		"labelText"									""
 		"textAlignment"								"center"
 		"font"										"m0refont16"
 	}

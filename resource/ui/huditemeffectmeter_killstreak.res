@@ -40,7 +40,7 @@
 		"tall"										"16"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"%progresscount%"
+		"labelText"									""
 		"textAlignment"								"west"
 		"font"										"m0refont18"
 		"fgcolor"									"Black"
